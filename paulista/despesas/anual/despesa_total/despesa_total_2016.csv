@@ -1,0 +1,101 @@
+Categoria Econômica;Grupo de despesa;Elemento;Subelemento;Dotação Inicial;Dotação Atualizada;Empenhado (E);Liquidado;Pago (P)
+"DESPESAS CORRENTES";;;;396.451.000,00;570.210.545,69;419.393.255,99;392.845.103,88;355.571.836,82
+;"PESSOAL E ENCARGOS SOCIAIS";;;254.823.300,00;367.782.249,96;255.919.838,27;253.145.111,90;231.741.944,25
+;;"Aposentadorias e Reformas";;42.186.900,00;44.414.266,15;44.183.197,87;44.183.197,87;40.495.292,46
+;;;"Aposentadorias e Reformas";42.186.900,00;44.414.266,15;44.183.197,87;44.183.197,87;40.495.292,46
+;;"Pensoes";;6.928.700,00;8.612.701,95;8.368.296,26;8.368.296,26;7.755.339,47
+;;;"Pensoes";6.928.700,00;8.612.701,95;8.368.296,26;8.368.296,26;7.755.339,47
+;;"Contratacao por Tempo Determinado";;22.605.700,00;36.993.648,50;21.274.482,00;21.274.462,96;19.576.772,50
+;;;"Contratacao por Tempo Determinado";22.605.700,00;36.993.648,50;21.274.482,00;21.274.462,96;19.576.772,50
+;;"Outros Benefic.Previd.Servidor ou Milita";;21.300,00;15.500,00;11.382,09;11.357,43;11.357,43
+;;;"Outros Benefic.Previd.Servidor ou Milita";21.300,00;15.500,00;11.382,09;11.357,43;11.357,43
+;;"Vencimentos e Vantagens Fixas   Pessoal Civil";;131.050.000,00;197.931.649,90;135.379.198,84;133.234.150,59;123.709.429,97
+;;;"Vencimentos e Vantagens Fixas   Pessoal Civil";131.050.000,00;197.931.649,90;135.379.198,84;133.234.150,59;123.709.429,97
+;;"Contribuicoes Patronais  19  I ";;34.188.200,00;43.602.599,51;28.001.910,58;27.473.612,58;24.763.088,96
+;;;"Contribuicoes Patronais  19  I ";22.802.300,00;26.385.956,97;15.720.599,42;15.274.075,32;13.972.814,88
+;;;"Obrigacoes Patronais";11.385.900,00;17.216.642,54;12.281.311,16;12.199.537,26;10.790.274,08
+;;"Outras Despesas Variaveis   Pessoal Civil";;14.659.300,00;29.127.000,86;14.347.115,94;14.299.633,41;13.036.197,90
+;;;"Outras Despesas Variaveis   Pessoal Civil";14.659.300,00;29.127.000,86;14.347.115,94;14.299.633,41;13.036.197,90
+;;"AUXILIO ALIMENTACAO";;0,00;360,00;360,00;360,00;270,00
+;;;"AUXILIO ALIMENTACAO";0,00;360,00;360,00;360,00;270,00
+;;"Sentencas Judiciais";;1.100.000,00;5.535.244,69;3.249.901,29;3.232.860,42;1.524.031,02
+;;;"Sentencas Judiciais";1.100.000,00;5.535.244,69;3.249.901,29;3.232.860,42;1.524.031,02
+;;"Despesas de Exercicios Anteriores";;1.051.000,00;583.848,40;353.699,14;350.809,82;311.753,25
+;;;"Despesas de Exercicios Anteriores";1.051.000,00;583.848,40;353.699,14;350.809,82;311.753,25
+;;"Indenizacoes e Restituicoes Trabalhistas";;112.000,00;124.830,00;124.825,56;121.589,79;101.869,49
+;;;"Indenizacoes e Restituicoes Trabalhistas";112.000,00;124.830,00;124.825,56;121.589,79;101.869,49
+;;"Ressarcimento de Despesas de Pessoal Requisitado";;920.200,00;840.600,00;625.468,70;594.780,77;456.541,80
+;;;"Ressarcimento de Despesas de Pessoal Requisitado";920.200,00;840.600,00;625.468,70;594.780,77;456.541,80
+;"JUROS E ENCARGOS DA DIVIDA";;;5.007.400,00;3.621.640,00;1.691.354,70;1.691.354,70;1.691.354,70
+;;"Juros sobre a Divida por Contrato";;54.200,00;1.200,00;0,00;0,00;0,00
+;;;"Juros sobre a Divida por Contrato";54.200,00;1.200,00;0,00;0,00;0,00
+;;"Outros Encargos sobre a Divida por Contrato";;53.200,00;0,00;0,00;0,00;0,00
+;;;"Outros Encargos sobre a Divida por Contrato";53.200,00;0,00;0,00;0,00;0,00
+;;"Encargos sobre Operacoes de Credito por Antecipacao da Receita";;4.900.000,00;3.620.440,00;1.691.354,70;1.691.354,70;1.691.354,70
+;;;"Encargos sobre Operacoes de Credito por Antecipacao da Receita";4.900.000,00;3.620.440,00;1.691.354,70;1.691.354,70;1.691.354,70
+;"OUTRAS DESPESAS CORRENTES";;;136.620.300,00;198.806.655,73;161.782.063,02;138.008.637,28;122.138.537,87
+;;"Outros Beneficios Assistenciais";;130.000,00;97.000,00;96.772,00;96.772,00;79.172,00
+;;;"Outros Beneficios Assistenciais";130.000,00;97.000,00;96.772,00;96.772,00;79.172,00
+;;"Diarias   Civil";;674.100,00;868.920,00;748.521,30;741.421,30;733.461,30
+;;;"Diarias   Civil";674.100,00;868.920,00;748.521,30;741.421,30;733.461,30
+;;"Material de Consumo";;18.170.900,00;19.280.384,50;10.363.945,63;9.614.434,67;8.728.805,79
+;;;"Material de Consumo";18.170.900,00;19.280.384,50;10.363.945,63;9.614.434,67;8.728.805,79
+;;"Premiacoes Culturais  Artisticas  Cientificas  Desportivas e Outras  6  I ";;10.000,00;0,00;0,00;0,00;0,00
+;;;"Premiacoes Culturais  Artisticas  Cientificas  Desportivas e Outras  6  I ";10.000,00;0,00;0,00;0,00;0,00
+;;"Material de Distribuicao Gratuita";;1.896.200,00;1.654.086,32;884.455,75;884.245,89;820.782,60
+;;;"Material de Distribuicao Gratuita";1.896.200,00;1.654.086,32;884.455,75;884.245,89;820.782,60
+;;"Passagens e Despesas com Locomocao";;485.900,00;187.240,00;81.793,54;60.939,17;52.210,46
+;;;"Passagens e Despesas com Locomocao";485.900,00;187.240,00;81.793,54;60.939,17;52.210,46
+;;"Servicos de Consultoria";;2.421.700,00;5.309.083,36;3.676.079,16;2.837.016,23;2.672.444,63
+;;;"Servicos de Consultoria";2.421.700,00;5.309.083,36;3.676.079,16;2.837.016,23;2.672.444,63
+;;"Outros Servicos de Terceiros   Pessoa Fisica";;2.735.000,00;2.319.478,81;1.982.667,47;1.942.732,00;1.659.574,80
+;;;"Outros Servicos de Terceiros   Pessoa Fisica";2.735.000,00;2.319.478,81;1.982.667,47;1.942.732,00;1.659.574,80
+;;"Locacao de Mao de Obra";;1.880.000,00;1.925.314,55;1.863.051,04;1.744.496,82;1.706.935,72
+;;;"Locacao de Mao de Obra";1.880.000,00;1.925.314,55;1.863.051,04;1.744.496,82;1.706.935,72
+;;"Outros Servicos de Terceiros   Pessoa Juridica";;73.380.000,00;110.872.966,32;89.930.972,90;76.613.068,49;64.773.004,10
+;;;"Outros Servicos de Terceiros   Pessoa Juridica";73.380.000,00;110.872.966,32;89.930.972,90;76.613.068,49;64.773.004,10
+;;"Contribuicoes";;60.000,00;114.700,00;112.473,00;84.973,00;81.373,00
+;;;"Contribuicoes";60.000,00;114.700,00;112.473,00;84.973,00;81.373,00
+;;"Subvencoes Sociais";;2.751.000,00;3.225.146,37;3.055.659,52;2.491.937,75;2.144.737,83
+;;;"Subvencoes Sociais";2.751.000,00;3.225.146,37;3.055.659,52;2.491.937,75;2.144.737,83
+;;"Auxilio Alimentacao";;92.300,00;223.169,00;151.700,36;134.237,00;118.244,00
+;;;"Auxilio Alimentacao";92.300,00;223.169,00;151.700,36;134.237,00;118.244,00
+;;"Obrigacoes Tributarias e Contributivas";;3.996.200,00;4.419.720,00;4.054.374,13;3.742.374,13;3.467.370,50
+;;;"Obrigacoes Tributarias e Contributivas";3.996.200,00;4.419.720,00;4.054.374,13;3.742.374,13;3.467.370,50
+;;"Outros Auxilios Financeiros a Pessoas Fisicas";;2.305.000,00;3.184.820,72;2.618.934,52;2.581.244,52;2.258.214,64
+;;;"Outros Auxilios Financeiros a Pessoas Fisicas";2.305.000,00;3.184.820,72;2.618.934,52;2.581.244,52;2.258.214,64
+;;"Auxilio Transporte";;9.072.900,00;10.513.220,00;8.512.184,83;8.360.165,26;7.793.038,76
+;;;"Auxilio Transporte";9.072.900,00;10.513.220,00;8.512.184,83;8.360.165,26;7.793.038,76
+;;"Sentencas Judiciais";;598.000,00;6.000,00;0,00;0,00;0,00
+;;;"Sentencas Judiciais";598.000,00;6.000,00;0,00;0,00;0,00
+;;"Despesas de Exercicios Anteriores";;4.090.200,00;4.815.149,90;3.909.044,02;2.782.166,17;2.773.346,89
+;;;"Despesas de Exercicios Anteriores";4.090.200,00;4.815.149,90;3.909.044,02;2.782.166,17;2.773.346,89
+;;"Indenizacoes e Restituicoes";;270.900,00;1.190.255,88;1.139.433,85;1.139.433,85;1.118.841,82
+;;;"Indenizacoes e Restituicoes";270.900,00;1.190.255,88;1.139.433,85;1.139.433,85;1.118.841,82
+;;"APORTE PARA COBERTURA DE DEFICT ATUARIAL DO RPPS";;11.600.000,00;28.600.000,00;28.600.000,00;22.156.979,03;21.156.979,03
+;;;"APORTE PARA COBERTURA DE DEFICT ATUARIAL DO RPPS";11.600.000,00;28.600.000,00;28.600.000,00;22.156.979,03;21.156.979,03
+"DESPESAS DE CAPITAL";;;;76.820.000,00;102.103.267,85;37.832.971,55;29.099.300,73;24.977.226,23
+;"INVESTIMENTOS";;;72.639.300,00;99.132.217,85;36.814.994,27;28.081.323,45;23.959.248,95
+;;"Servicos de Consultoria";;4.085.600,00;1.089.702,00;95.480,00;95.477,44;83.542,76
+;;;"Servicos de Consultoria";4.085.600,00;1.089.702,00;95.480,00;95.477,44;83.542,76
+;;"Outros Servicos de Terceiros   Pessoa Juridica";;4.155.000,00;1.079.160,65;0,00;0,00;0,00
+;;;"Outros Servicos de Terceiros   Pessoa Juridica";4.155.000,00;1.079.160,65;0,00;0,00;0,00
+;;"CONTRIBUICOES";;11.200,00;6.200,00;0,00;0,00;0,00
+;;;"CONTRIBUICOES";11.200,00;6.200,00;0,00;0,00;0,00
+;;"Obras e Instalacoes";;61.239.900,00;92.825.956,60;34.220.487,28;26.208.843,81;22.336.325,05
+;;;"Obras e Instalacoes";61.239.900,00;92.825.956,60;34.220.487,28;26.208.843,81;22.336.325,05
+;;"Equipamentos e Material Permanente";;2.679.100,00;3.765.028,60;2.419.563,93;1.697.539,14;1.459.918,08
+;;;"Equipamentos e Material Permanente";2.679.100,00;3.765.028,60;2.419.563,93;1.697.539,14;1.459.918,08
+;;"Aquisicao de Imoveis";;88.200,00;17.510,00;0,00;0,00;0,00
+;;;"Aquisicao de Imoveis";88.200,00;17.510,00;0,00;0,00;0,00
+;;"Despesas de Exercicios Anteriores";;240.200,00;283.560,00;79.463,06;79.463,06;79.463,06
+;;;"Despesas de Exercicios Anteriores";240.200,00;283.560,00;79.463,06;79.463,06;79.463,06
+;;"Indenizacoes e Restituicoes";;140.100,00;65.100,00;0,00;0,00;0,00
+;;;"Indenizacoes e Restituicoes";140.100,00;65.100,00;0,00;0,00;0,00
+;"AMORTIZACAO DA DIVIDA";;;4.178.700,00;2.971.050,00;1.017.977,28;1.017.977,28;1.017.977,28
+;;"Principal Corrigido da Divida Contratual Refinanciado";;4.178.700,00;2.971.050,00;1.017.977,28;1.017.977,28;1.017.977,28
+;;;"Principal Corrigido da Divida Contratual Refinanciado";4.178.700,00;2.971.050,00;1.017.977,28;1.017.977,28;1.017.977,28
+"Reserva de Contingencia";;;;1.600.000,00;1.600.000,00;0,00;0,00;0,00
+;"Reserva de Contingencia";;;1.600.000,00;1.600.000,00;0,00;0,00;0,00
+;;"Reserva de Contingencia";;1.600.000,00;1.600.000,00;0,00;0,00;0,00
+;;;"Reserva de Contingencia";1.600.000,00;1.600.000,00;0,00;0,00;0,00
